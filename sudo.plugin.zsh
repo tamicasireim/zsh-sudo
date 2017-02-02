@@ -25,4 +25,4 @@ zle -N sudo-command-line
 # Defined shortcut keys: [Esc] [Esc]
 # bindkey "\e\e" sudo-command-line
 # bindkey -M vicmd '\e\e' sudo-command-line
-bindkey -M viins 'jl' sudo-command-lin
+bindkey -M viins 'jl' sudo-command-line
